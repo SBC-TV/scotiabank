@@ -247,16 +247,9 @@ body.newuser .menu a {
     z-index: 99;
     padding: 2em 1em;
 }
-.dog:before {
-    content: '';
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0,0,0,.5);
-    z-index: 9;
-    position: absolute;
-}
 
-.dog:after {
+
+.dog:before {
   content: '';
   position: absolute;
   background-image: url('https://cdn.pixabay.com/photo/2017/02/01/09/53/boy-2029246_960_720.png');
